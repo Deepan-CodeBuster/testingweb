@@ -1,0 +1,65 @@
+.contentarea{
+
+margin-left:5%;
+margin-top:7%;
+font-style:italic;
+}
+
+
+.contentarea h1{
+font-size:50px;
+}
+
+.contentarea h2{
+font-size:50px;
+}
+
+.contentarea a{
+font-style:normal;
+background-color:#F0F405;
+padding:12px 20px;
+text-decoration:none;
+font-weight:600;
+color:#000;
+display:inline-block;
+margin:30px ;
+margin-left:13%;
+border-radius:6px;
+}
+
+.contentarea a:hover{
+background-color:#03FFF7;
+}
+
+.car h1{
+font-size:40px;
+text-align: center;
+}
+
+.car p{
+text-align: center;
+font-size:15px;
+}
+
+.car a{
+font-style:normal;
+background-color:white;
+padding:10px 100px;
+text-decoration:none;
+font-weight:600;
+color:black;
+display:inline-block;
+margin:10px ;
+margin-left:34%;
+border-radius:6px;
+}
+
+.car a:hover{
+background-color:#D7B1F4;
+}
+
+
+
+
+
+
